@@ -65,11 +65,11 @@ minecraft-server-aws-ec2/
 
 Siga os documentos na ordem:
 
-1. [Configuração da instância EC2](docs/01-ec2-instance-setup.md)
-2. [Par de chaves e grupo de segurança](docs/02-keypair-security-group.md)
-3. [Conexão SSH (Windows)](docs/03-ssh-connection.md)
-4. [Instalação do servidor](docs/04-server-installation.md)
-5. [Solução de problemas](docs/05-troubleshooting.md)
+1. [Configuração da instância EC2](01-ec2-instance-setup.md)
+2. [Par de chaves e grupo de segurança](02-keypair-security-group.md)
+3. [Conexão SSH (Windows)](03-ssh-connection.md)
+4. [Instalação do servidor](04-server-installation.md)
+5. [Solução de problemas](05-troubleshooting.md)
 
 ---
 
