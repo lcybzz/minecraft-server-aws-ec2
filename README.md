@@ -102,7 +102,7 @@ Siga os documentos na ordem:
 
 **Luiz Felipe Corbelli**  
 Estudante de Segurança da Informação — Fatec Araraquara  
-Suporte N1 na Capgemini  
+Líder Estudantil Builder Campus AWS - 2026  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luizcorbelli-blue?style=flat&logo=linkedin)](https://linktr.ee/luizcorbelli)
 [![AWS Builder](https://img.shields.io/badge/AWS-Builder%20Center-orange?style=flat&logo=amazonaws)](https://builder.aws.com)
